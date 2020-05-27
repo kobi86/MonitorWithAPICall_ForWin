@@ -1,0 +1,14 @@
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\CallAPIService.csprojAssemblyReference.cache
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\CallAPIService.csproj.CoreCompileInputs.cache
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\CallAPIService.AssemblyInfoInputs.cache
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\CallAPIService.AssemblyInfo.cs
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\MonitorService.deps.json
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\MonitorService.runtimeconfig.json
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\MonitorService.runtimeconfig.dev.json
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\MonitorService.dll
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\bin\Release\netcoreapp2.2\MonitorService.pdb
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\MonitorService.dll
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\MonitorService.pdb
+C:\Users\kobige\Desktop\carewatchservice\CallApiService\obj\Release\netcoreapp2.2\CallAPIService.genruntimeconfig.cache
