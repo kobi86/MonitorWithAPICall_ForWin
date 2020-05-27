@@ -14,8 +14,8 @@ API (MilliSeconds)
 - OrgName - The name of the VSTS organization
 - ProjectName - The name of the project in the VSTS organization
 
-##NOTE: The service all monitor for **created files** and not deleted,renamed etc.. <br />
-##NOTE: The Servcie can monitor up to 3 folders ,Currently its monitoring 1 
+*NOTE: The service all monitor for **created files** and not deleted,renamed etc.. <br />
+*NOTE: The Servcie can monitor up to 3 folders ,Currently its monitoring 1 
 
 #Installation: 
 - Build the project
