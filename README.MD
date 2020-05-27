@@ -4,7 +4,7 @@ This App is in C# and containes an AppSettings.json file which helps in managing
 - Folder1 =  Folder 1 To monitor
 - Folder2 = Folder 2 to monitor
 - Folder3 = Folder 3 to monitor
-- Filesloglocation = The Location for the created log file , all the 
+- Filesloglocation = The Location for the created log file , all the <br />
 files that the service monitored will be written into this Log
 - AccessToken = Token for the VSTS (PAT)
 - BuildID = The call for the API, No need to change it , just update the 
@@ -14,8 +14,8 @@ API (MilliSeconds)
 - OrgName - The name of the VSTS organization
 - ProjectName - The name of the project in the VSTS organization
 
-*NOTE: The service all monitor for **created files** and not deleted,renamed etc.. 
-*NOTE: The Servcie can monitor up to 3 folders ,Currently its monitoring 1 
+##NOTE: The service all monitor for **created files** and not deleted,renamed etc.. <br />
+##NOTE: The Servcie can monitor up to 3 folders ,Currently its monitoring 1 
 
 #Installation: 
 - Build the project
