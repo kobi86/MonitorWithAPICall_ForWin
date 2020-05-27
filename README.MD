@@ -1,5 +1,4 @@
 ![GitHub Logo](https://miro.medium.com/max/1400/1*zc1BKfAHkpvrZlHPbUvuYA.png)
-Format: ![Alt Text](https://miro.medium.com/max/1400/1*zc1BKfAHkpvrZlHPbUvuYA.png)
 
 This is a Windows Service that Monitors A folder and triggers an API CALL to VSTS and triggers a build. 
 This App is in C# and containes an AppSettings.json file which helps in managing the settings.
