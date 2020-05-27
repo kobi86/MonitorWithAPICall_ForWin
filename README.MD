@@ -8,7 +8,7 @@ This App is in C# and containes an AppSettings.json file which helps in managing
 files that the service monitored will be written into this Log
 - AccessToken = Token for the VSTS (PAT)
 - BuildID = The call for the API, No need to change it , just update the 
-ID of the build and rebuild . EXAMPLE:"{ \"definition\": {\"id\": 1234}}"
+ID of the build and rebuild . <br /> EXAMPLE:"{ \"definition\": {\"id\": 1234}}"
 - ApiCallTime = The time between logging the file and until you call the 
 API (MilliSeconds)
 - OrgName - The name of the VSTS organization
