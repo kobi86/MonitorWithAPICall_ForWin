@@ -1,3 +1,5 @@
+<img src="https://www.mindfiretechnology.com/media/1350/netcoreplusexe2.png?center=0.55909090909090908,0.475&mode=crop&width=850&height=535&rnd=131511750330000000" width="200" height="100">
+
 
 This is a Windows Service that Monitors A folder and triggers an API CALL to VSTS and triggers a build. 
 This App is in C# and containes an AppSettings.json file which helps in managing the settings.
